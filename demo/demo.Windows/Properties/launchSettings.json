@@ -1,7 +1,0 @@
-{
-  "profiles": {
-    "demo.Windows": {
-      "commandName": "MsixPackage"
-    }
-  }
-}
