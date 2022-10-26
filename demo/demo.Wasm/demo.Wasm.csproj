@@ -49,7 +49,6 @@
     <PackageReference Include="Uno.Wasm.Bootstrap.DevServer" Version="3.3.1" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="zh\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
   <Import Project="..\demo.Shared\demo.Shared.projitems" Label="Shared" Condition="Exists('..\demo.Shared\demo.Shared.projitems')" />
